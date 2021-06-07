@@ -1,0 +1,153 @@
+//EJERCICIO 7//
+https://restcountries.eu/rest/v2/lang/nl
+
+[
+    {
+        "name": "Aruba",
+        "topLevelDomain": [
+            ".aw"
+        ],
+        "alpha2Code": "AW",
+        "alpha3Code": "ABW",
+        "callingCodes": [
+            "297"
+        ],
+        "capital": "Oranjestad",
+        "altSpellings": [
+            "AW"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 107394,
+        "latlng": [
+            12.5,
+            -69.96666666
+        ],
+        "demonym": "Aruban",
+        "area": 180.0,
+        "gini": null,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": [],
+        "nativeName": "Aruba",
+        "numericCode": "533",
+        "currencies": [
+            {
+                "code": "AWG",
+                "name": "Aruban florin",
+                "symbol": "ƒ"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "nl",
+                "iso639_2": "nld",
+                "name": "Dutch",
+                "nativeName": "Nederlands"
+            },
+            {
+                "iso639_1": "pa",
+                "iso639_2": "pan",
+                "name": "(Eastern) Punjabi",
+                "nativeName": "ਪੰਜਾਬੀ"
+            }
+        ],
+        "translations": {
+            "de": "Aruba",
+            "es": "Aruba",
+            "fr": "Aruba",
+            "ja": "アルバ",
+            "it": "Aruba",
+            "br": "Aruba",
+            "pt": "Aruba",
+            "nl": "Aruba",
+            "hr": "Aruba",
+            "fa": "آروبا"
+        },
+        "flag": "https://restcountries.eu/data/abw.svg",
+        "regionalBlocs": [],
+        "cioc": "ARU"
+    },
+    {
+        "name": "Belgium",
+        "topLevelDomain": [
+            ".be"
+        ],
+        "alpha2Code": "BE",
+        "alpha3Code": "BEL",
+        "callingCodes": [
+            "32"
+        ],
+        "capital": "Brussels",
+        "altSpellings": [
+            "BE",
+            "België",
+            "Belgie",
+            "Belgien",
+            "Belgique",
+            "Kingdom of Belgium",
+            "Koninkrijk België",
+            "Royaume de Belgique",
+            "Königreich Belgien"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 11319511,
+        "latlng": [
+            50.83333333,
+            4.0
+        ],
+        "demonym": "Belgian",
+        "area": 30528.0,
+        "gini": 33.0,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "FRA",
+            "DEU",
+            "LUX",
+            "NLD"
+        ],
+        "nativeName": "België",
+        "numericCode": "056",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "nl",
+                "iso639_2": "nld",
+                "name": "Dutch",
+                "nativeName": "Nederlands"
+            },
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            },
+            {
+                "iso639_1": "de",
+                "iso639_2": "deu",
+                "name": "German",
+                "nativeName": "Deutsch"
+            }
+        ],
+        "translations": {
+            "de": "Belgien",
+            "es": "Bélgica",
+            "fr": "Belgique",
+            "ja": "ベルギー",
+            "it": "Belgio",
+            "br": "Bélgica",
+            "pt": "Bélgica",
+            "nl": "België",
+            "hr": "Belgija",
+            "fa": "بلژیک"
+        },

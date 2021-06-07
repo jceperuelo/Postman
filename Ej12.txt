@@ -1,0 +1,153 @@
+//EJERCICIO 12//
+https://restcountries.eu/rest/v2/all?fields=region;demonym;languages
+
+[
+    {
+        "languages": [
+            {
+                "iso639_1": "ps",
+                "iso639_2": "pus",
+                "name": "Pashto",
+                "nativeName": "پښتو"
+            },
+            {
+                "iso639_1": "uz",
+                "iso639_2": "uzb",
+                "name": "Uzbek",
+                "nativeName": "Oʻzbek"
+            },
+            {
+                "iso639_1": "tk",
+                "iso639_2": "tuk",
+                "name": "Turkmen",
+                "nativeName": "Türkmen"
+            }
+        ],
+        "region": "Asia",
+        "demonym": "Afghan"
+    },
+    {
+        "languages": [
+            {
+                "iso639_1": "sv",
+                "iso639_2": "swe",
+                "name": "Swedish",
+                "nativeName": "svenska"
+            }
+        ],
+        "region": "Europe",
+        "demonym": "Ålandish"
+    },
+    {
+        "languages": [
+            {
+                "iso639_1": "sq",
+                "iso639_2": "sqi",
+                "name": "Albanian",
+                "nativeName": "Shqip"
+            }
+        ],
+        "region": "Europe",
+        "demonym": "Albanian"
+    },
+    {
+        "languages": [
+            {
+                "iso639_1": "ar",
+                "iso639_2": "ara",
+                "name": "Arabic",
+                "nativeName": "العربية"
+            }
+        ],
+        "region": "Africa",
+        "demonym": "Algerian"
+    },
+    {
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            },
+            {
+                "iso639_1": "sm",
+                "iso639_2": "smo",
+                "name": "Samoan",
+                "nativeName": "gagana fa'a Samoa"
+            }
+        ],
+        "region": "Oceania",
+        "demonym": "American Samoan"
+    },
+    {
+        "languages": [
+            {
+                "iso639_1": "ca",
+                "iso639_2": "cat",
+                "name": "Catalan",
+                "nativeName": "català"
+            }
+        ],
+        "region": "Europe",
+        "demonym": "Andorran"
+    },
+    {
+        "languages": [
+            {
+                "iso639_1": "pt",
+                "iso639_2": "por",
+                "name": "Portuguese",
+                "nativeName": "Português"
+            }
+        ],
+        "region": "Africa",
+        "demonym": "Angolan"
+    },
+    {
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "region": "Americas",
+        "demonym": "Anguillian"
+    },
+    {
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            },
+            {
+                "iso639_1": "ru",
+                "iso639_2": "rus",
+                "name": "Russian",
+                "nativeName": "Русский"
+            }
+        ],
+        "region": "Polar",
+        "demonym": ""
+    },
+    {
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "region": "Americas",
+        "demonym": "Antiguan, Barbudan"
+    },
+    {
+        "languages": [
+            {
+                "iso639_1": "es",
+                "iso639_2": "spa",

@@ -1,0 +1,153 @@
+//EJERCICIO 11//
+https://restcountries.eu/rest/v2/regionalbloc/EU
+
+[
+    {
+        "name": "Åland Islands",
+        "topLevelDomain": [
+            ".ax"
+        ],
+        "alpha2Code": "AX",
+        "alpha3Code": "ALA",
+        "callingCodes": [
+            "358"
+        ],
+        "capital": "Mariehamn",
+        "altSpellings": [
+            "AX",
+            "Aaland",
+            "Aland",
+            "Ahvenanmaa"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 28875,
+        "latlng": [
+            60.116667,
+            19.9
+        ],
+        "demonym": "Ålandish",
+        "area": 1580.0,
+        "gini": null,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [],
+        "nativeName": "Åland",
+        "numericCode": "248",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "sv",
+                "iso639_2": "swe",
+                "name": "Swedish",
+                "nativeName": "svenska"
+            }
+        ],
+        "translations": {
+            "de": "Åland",
+            "es": "Alandia",
+            "fr": "Åland",
+            "ja": "オーランド諸島",
+            "it": "Isole Aland",
+            "br": "Ilhas de Aland",
+            "pt": "Ilhas de Aland",
+            "nl": "Ålandeilanden",
+            "hr": "Ålandski otoci",
+            "fa": "جزایر الند"
+        },
+        "flag": "https://restcountries.eu/data/ala.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": ""
+    },
+    {
+        "name": "Austria",
+        "topLevelDomain": [
+            ".at"
+        ],
+        "alpha2Code": "AT",
+        "alpha3Code": "AUT",
+        "callingCodes": [
+            "43"
+        ],
+        "capital": "Vienna",
+        "altSpellings": [
+            "AT",
+            "Österreich",
+            "Osterreich",
+            "Oesterreich"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 8725931,
+        "latlng": [
+            47.33333333,
+            13.33333333
+        ],
+        "demonym": "Austrian",
+        "area": 83871.0,
+        "gini": 26.0,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "CZE",
+            "DEU",
+            "HUN",
+            "ITA",
+            "LIE",
+            "SVK",
+            "SVN",
+            "CHE"
+        ],
+        "nativeName": "Österreich",
+        "numericCode": "040",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "de",
+                "iso639_2": "deu",
+                "name": "German",
+                "nativeName": "Deutsch"
+            }
+        ],
+        "translations": {
+            "de": "Österreich",
+            "es": "Austria",
+            "fr": "Autriche",
+            "ja": "オーストリア",
+            "it": "Austria",
+            "br": "áustria",
+            "pt": "áustria",
+            "nl": "Oostenrijk",
+            "hr": "Austrija",
+            "fa": "اتریش"
+        },
+        "flag": "https://restcountries.eu/data/aut.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
